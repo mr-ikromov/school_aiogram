@@ -4,7 +4,8 @@
 Ushbu bot maktab haqida to'liq ma'lumot berish, ish o'rinlariga ariza qabul qilish hamda 
 maktabga qabul jarayonlarini avtomatlashtirish uchun mo'ljallangan zamonaviy Telegram botidir.
 
-Bot **Aiogram 3.x** framework'ida to'liq asinxron (asynchronous) tarzda yozilgan bo'lib, ikki tilli (O'zbekcha va Ruscha) interfeysga ega.
+Bot **Aiogram 3.x** framework'ida to'liq asinxron (asynchronous) tarzda yozilgan bo'lib, 
+ikki tilli (O'zbekcha va Ruscha) interfeysga ega.
 
 ## 🚀 Bot Imkoniyatlari
 
