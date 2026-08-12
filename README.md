@@ -27,8 +27,8 @@ ikki tilli (O'zbekcha va Ruscha) interfeysga ega.
 
 1. **Loyihani klonlang yoki fayllarni yuklab oling:**
    ```bash
-   git clone https://github.com/your_username/your_repo_name.git
-   cd your_repo_name
+   https://github.com/mr-ikromov/school_aiogram
+   cd school_aiogram
    ```
 
 2. **Virtual muhitni yaratish va faollashtirish:**
