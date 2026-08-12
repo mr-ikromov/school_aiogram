@@ -1,4 +1,4 @@
-# 🏫 Maktabi - Telegram Boti
+# 🏫 Maktab - Telegram Boti
 
 Ushbu bot maktab haqida to'liq ma'lumot berish, ish o'rinlariga ariza qabul qilish hamda 
 maktabga qabul jarayonlarini avtomatlashtirish uchun mo'ljallangan zamonaviy Telegram botidir.
