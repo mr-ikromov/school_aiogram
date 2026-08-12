@@ -97,4 +97,3 @@ Developed with ❤️ using Aiogram 3.
 1. Loyihangiz joylashgan papkada `README.md` degan fayl oching.
 2. Yuqoridagi matnni nusxalab, shu faylga tashlang.
 3. Git/GitHub'ga yuklasangiz, loyihangiz chiroyli ko'rinishda chiqadi. 
-4. `SIZNING_BOT_TOKENINGIZ` va `https://github.com/mr-ikromov/school_aiogram` kabi joylarini o'zingizning ma'lumotlaringizga moslab o'zgartirib olishingiz mumkin.
