@@ -1,4 +1,3 @@
-```markdown
 # 🏫 Maktabi - Telegram Boti
 
 Ushbu bot maktab haqida to'liq ma'lumot berish, ish o'rinlariga ariza qabul qilish hamda 
@@ -93,7 +92,6 @@ INFO:aiogram.dispatcher:Run polling for bot @your_bot_username
 
 ---
 Developed with ❤️ using Aiogram 3.
-```
 
 ### Buni qanday ishlatish kerak?
 1. Loyihangiz joylashgan papkada `README.md` degan fayl oching.
